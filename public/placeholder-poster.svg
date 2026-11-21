@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 750" width="500" height="750">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141414"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <circle cx="250" cy="330" r="50" fill="#262626"/>
+  <path d="M235 305 L275 330 L235 355 Z" fill="#e50914"/>
+  <text x="250" y="430" text-anchor="middle" fill="#737373" font-family="system-ui, sans-serif" font-size="20" font-weight="600" letter-spacing="1">NO POSTER AVAILABLE</text>
+  <text x="250" y="460" text-anchor="middle" fill="#404040" font-family="system-ui, sans-serif" font-size="16">NuttFlixx</text>
+</svg>

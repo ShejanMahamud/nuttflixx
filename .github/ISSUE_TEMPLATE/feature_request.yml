@@ -1,0 +1,18 @@
+name: Feature Request
+description: Suggest an idea or enhancement for Plaaay
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or Motivation
+      description: Is your feature request related to a problem or missing capability?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe how you would like this feature to work.
+    validations:
+      required: true
